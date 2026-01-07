@@ -1,0 +1,16 @@
+{
+  "name": "BANDIT",
+  "symbol": "BNT",
+  "description": "A masked raccoon ready to take over the charts.",
+  "image": "REPLACE_WITH_RAW_IMAGE_URL",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "REPLACE_WITH_RAW_IMAGE_URL",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
