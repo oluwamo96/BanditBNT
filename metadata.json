@@ -2,12 +2,12 @@
   "name": "BANDIT",
   "symbol": "BNT",
   "description": "A masked raccoon ready to take over the charts.",
-  "image": "REPLACE_WITH_RAW_IMAGE_URL",
+  "image": "https://raw.githubusercontent.com/oluwamo96/BanditBNT/54ed6dc8120fdf99cfcc1e9158ef9c511d5b647b/photo_2026-01-07_01-38-19.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "REPLACE_WITH_RAW_IMAGE_URL",
+        "uri": "https://raw.githubusercontent.com/oluwamo96/BanditBNT/54ed6dc8120fdf99cfcc1e9158ef9c511d5b647b/photo_2026-01-07_01-38-19.png",
         "type": "image/png"
       }
     ],
